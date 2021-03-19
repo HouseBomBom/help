@@ -6,9 +6,9 @@
  * Time: 下午 01:19
  */
 
-namespace XC\Independent\Kit\Constants;
+namespace House\Help\Constants;
 
-use XC\Independent\Kit\Support\Scalar\ArrayMaster;
+use House\Help\Support\Scalar\ArrayMaster;
 
 abstract class BaseConstants
 {

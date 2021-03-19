@@ -6,14 +6,14 @@
  * Time: 下午 03:42
  */
 
-namespace XC\Independent\Kit\Network\Curl;
+namespace House\Help\Network\Curl;
 
-use XC\Independent\Kit\Constants\ContentTypeConstants;
-use XC\Independent\Kit\Constants\HttpMethodConstants;
-use XC\Independent\Kit\Contract\IHttpRequest;
-use XC\Independent\Kit\Network\Curl\Exception\CurlExeFailException;
-use XC\Independent\Kit\Network\Curl\Request\MethodRequestFactory;
-use XC\Independent\Kit\Support\Scalar\ArrayMaster;
+use House\Help\Constants\ContentTypeConstants;
+use House\Help\Constants\HttpMethodConstants;
+use House\Help\Contract\IHttpRequest;
+use House\Help\Network\Curl\Exception\CurlExeFailException;
+use House\Help\Network\Curl\Request\MethodRequestFactory;
+use House\Help\Support\Scalar\ArrayMaster;
 
 /**
  * Class Curl

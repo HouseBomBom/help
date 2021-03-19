@@ -1,13 +1,13 @@
 <?php
 
-namespace XC\Independent\Kit\Support\Traits\Pattern;
+namespace House\Help\Support\Traits\Pattern;
 
 use Closure;
 use ReflectionClass;
 
 /**
  * Trait Factory
- * @package XC\Independent\Kit\Support\Traits\Pattern
+ * @package House\Help\Support\Traits\Pattern
  */
 trait Factory
 {

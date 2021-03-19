@@ -6,7 +6,7 @@
  * Time: 下午 05:57
  */
 
-namespace XC\Independent\Kit\Support\Scalar;
+namespace House\Help\Support\Scalar;
 
 class StringMaster
 {

@@ -6,10 +6,10 @@
  * Time: 下午 02:42
  */
 
-namespace XC\Independent\Kit\Tests\URL;
+namespace House\Help\Tests\URL;
 
 use PHPUnit\Framework\TestCase;
-use XC\Independent\Kit\Utils\URLUtil;
+use House\Help\Utils\URLUtil;
 
 class URLUtilTest extends TestCase
 {

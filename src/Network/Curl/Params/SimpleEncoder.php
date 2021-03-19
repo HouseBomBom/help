@@ -6,9 +6,9 @@
  * Time: 下午 04:02
  */
 
-namespace XC\Independent\Kit\Network\Curl\Params;
+namespace House\Help\Network\Curl\Params;
 
-use XC\Independent\Kit\Network\HttpPostFieldsBuilder;
+use House\Help\Network\HttpPostFieldsBuilder;
 
 class SimpleEncoder extends AbstractPostEncoder
 {

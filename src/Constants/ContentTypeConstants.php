@@ -6,7 +6,7 @@
  * Time: 上午 11:51
  */
 
-namespace XC\Independent\Kit\Constants;
+namespace House\Help\Constants;
 
 class ContentTypeConstants extends BaseConstants
 {

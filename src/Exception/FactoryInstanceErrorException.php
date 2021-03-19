@@ -1,6 +1,6 @@
 <?php
 
-namespace XC\Independent\Kit\Exception;
+namespace House\Help\Exception;
 
 /**
  * Created by PhpStorm.

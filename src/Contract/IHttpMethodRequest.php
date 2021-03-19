@@ -6,7 +6,7 @@
  * Time: 下午 01:37
  */
 
-namespace XC\Independent\Kit\Contract;
+namespace House\Help\Contract;
 
 interface IHttpMethodRequest
 {

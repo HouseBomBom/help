@@ -6,11 +6,11 @@
  * Time: 下午 01:39
  */
 
-namespace XC\Independent\Kit\Network\Curl\Request;
+namespace House\Help\Network\Curl\Request;
 
-use XC\Independent\Kit\Contract\Params\IPostEncoder;
-use XC\Independent\Kit\Network\Curl\Curl;
-use XC\Independent\Kit\Network\Curl\Params\PostEncoderFactory;
+use House\Help\Contract\Params\IPostEncoder;
+use House\Help\Network\Curl\Curl;
+use House\Help\Network\Curl\Params\PostEncoderFactory;
 
 class PostRequest extends AbstractMethodRequest
 {

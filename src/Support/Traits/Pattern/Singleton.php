@@ -6,7 +6,7 @@
  * Time: 下午 07:01
  */
 
-namespace XC\Independent\Kit\Support\Traits\Pattern;
+namespace House\Help\Support\Traits\Pattern;
 
 trait Singleton
 {

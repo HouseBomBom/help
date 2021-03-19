@@ -6,10 +6,10 @@
  * Time: 下午 03:06
  */
 
-namespace XC\Independent\Kit\Tests\Client;
+namespace House\Help\Tests\Client;
 
 use PHPUnit\Framework\TestCase;
-use XC\Independent\Kit\Utils\ClientUtil;
+use House\Help\Utils\ClientUtil;
 
 class ClientUtilTest extends TestCase
 {

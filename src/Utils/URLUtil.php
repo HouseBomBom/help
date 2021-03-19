@@ -6,7 +6,7 @@
  * Time: 下午 01:51
  */
 
-namespace XC\Independent\Kit\Utils;
+namespace House\Help\Utils;
 
 class URLUtil
 {

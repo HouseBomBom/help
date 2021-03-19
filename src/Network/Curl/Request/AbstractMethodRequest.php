@@ -6,11 +6,11 @@
  * Time: 下午 03:03
  */
 
-namespace XC\Independent\Kit\Network\Curl\Request;
+namespace House\Help\Network\Curl\Request;
 
-use XC\Independent\Kit\Contract\IHttpMethodRequest;
-use XC\Independent\Kit\Network\Curl\Curl;
-use XC\Independent\Kit\Support\Traits\Pattern\Singleton;
+use House\Help\Contract\IHttpMethodRequest;
+use House\Help\Network\Curl\Curl;
+use House\Help\Support\Traits\Pattern\Singleton;
 
 abstract class AbstractMethodRequest implements IHttpMethodRequest
 {

@@ -6,10 +6,10 @@
  * Time: 下午 01:39
  */
 
-namespace XC\Independent\Kit\Network\Curl\Request;
+namespace House\Help\Network\Curl\Request;
 
-use XC\Independent\Kit\Support\Scalar\ArrayMaster;
-use XC\Independent\Kit\Utils\URLUtil;
+use House\Help\Support\Scalar\ArrayMaster;
+use House\Help\Utils\URLUtil;
 
 class GetRequest extends AbstractMethodRequest
 {

@@ -6,7 +6,7 @@
  * Time: 下午 01:45
  */
 
-namespace XC\Independent\Kit\Constants;
+namespace House\Help\Constants;
 
 class HttpMethodConstants
 {

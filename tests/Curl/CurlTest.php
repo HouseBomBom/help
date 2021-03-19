@@ -6,11 +6,11 @@
  * Time: 下午 12:03
  */
 
-namespace XC\Independent\Kit\Tests;
+namespace House\Help\Tests;
 
 use PHPUnit\Framework\TestCase;
-use XC\Independent\Kit\Network\Curl\Curl;
-use XC\Independent\Kit\Network\HttpPostFieldsBuilder;
+use House\Help\Network\Curl\Curl;
+use House\Help\Network\HttpPostFieldsBuilder;
 
 class CurlTest extends TestCase
 {

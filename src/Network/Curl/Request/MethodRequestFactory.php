@@ -6,15 +6,15 @@
  * Time: 下午 03:20
  */
 
-namespace XC\Independent\Kit\Network\Curl\Request;
+namespace House\Help\Network\Curl\Request;
 
-use XC\Independent\Kit\Constants\HttpMethodConstants;
-use XC\Independent\Kit\Contract\IHttpMethodRequest;
-use XC\Independent\Kit\Support\Traits\Pattern\Factory;
+use House\Help\Constants\HttpMethodConstants;
+use House\Help\Contract\IHttpMethodRequest;
+use House\Help\Support\Traits\Pattern\Factory;
 
 /**
  * Class HttpRequestFactory
- * @package XC\Independent\Kit\Network\Curl\Request
+ * @package House\Help\Network\Curl\Request
  * @method static IHttpMethodRequest make(string $key, array $parameters = [])
  */
 class MethodRequestFactory

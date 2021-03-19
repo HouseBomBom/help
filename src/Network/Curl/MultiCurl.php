@@ -6,9 +6,9 @@
  * Time: 下午 06:06
  */
 
-namespace XC\Independent\Kit\Network\Curl;
+namespace House\Help\Network\Curl;
 
-use XC\Independent\Kit\Support\Scalar\ArrayMaster;
+use House\Help\Support\Scalar\ArrayMaster;
 
 class MultiCurl
 {

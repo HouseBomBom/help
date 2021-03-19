@@ -6,7 +6,7 @@
  * Time: 下午 03:36
  */
 
-namespace XC\Independent\Kit\Network\Curl\Params;
+namespace House\Help\Network\Curl\Params;
 
 class JsonEncoder extends AbstractPostEncoder
 {

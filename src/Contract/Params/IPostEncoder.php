@@ -6,7 +6,7 @@
  * Time: 下午 03:24
  */
 
-namespace XC\Independent\Kit\Contract\Params;
+namespace House\Help\Contract\Params;
 
 interface IPostEncoder
 {

@@ -6,10 +6,10 @@
  * Time: 下午 03:03
  */
 
-namespace XC\Independent\Kit\Network\Curl\Params;
+namespace House\Help\Network\Curl\Params;
 
-use XC\Independent\Kit\Contract\Params\IPostEncoder;
-use XC\Independent\Kit\Support\Traits\Pattern\Singleton;
+use House\Help\Contract\Params\IPostEncoder;
+use House\Help\Support\Traits\Pattern\Singleton;
 
 abstract class AbstractPostEncoder implements IPostEncoder
 {

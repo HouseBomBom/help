@@ -6,10 +6,10 @@
  * Time: 下午 12:03
  */
 
-namespace XC\Independent\Kit\Tests;
+namespace House\Help\Tests;
 
 use PHPUnit\Framework\TestCase;
-use XC\Independent\Kit\Support\Scalar\ArrayMaster;
+use House\Help\Support\Scalar\ArrayMaster;
 
 class ExampleTest extends TestCase
 {

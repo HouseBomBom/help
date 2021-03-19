@@ -6,14 +6,14 @@
  * Time: 下午 05:52
  */
 
-namespace XC\Independent\Kit\Utils;
+namespace House\Help\Utils;
 
-use XC\Independent\Kit\Support\Scalar\ArrayMaster;
+use House\Help\Support\Scalar\ArrayMaster;
 
 /**
  * Handle client information.
  * Class ClientUtil
- * @package XC\Independent\Kit\Utils
+ * @package House\Help\Utils
  */
 class ClientUtil
 {

@@ -6,10 +6,10 @@
  * Time: 下午 04:07
  */
 
-namespace XC\Independent\Kit\Network\Curl;
+namespace House\Help\Network\Curl;
 
-use XC\Independent\Kit\Contract\IHttpResponse;
-use XC\Independent\Kit\Support\Scalar\ArrayMaster;
+use House\Help\Contract\IHttpResponse;
+use House\Help\Support\Scalar\ArrayMaster;
 
 /**
  * Class CurlResponse

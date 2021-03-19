@@ -6,9 +6,9 @@
  * Time: 下午 12:16
  */
 
-namespace XC\Independent\Kit\Network;
+namespace House\Help\Network;
 
-use XC\Independent\Kit\Support\Scalar\StringMaster;
+use House\Help\Support\Scalar\StringMaster;
 
 class HttpPostFieldsBuilder
 {

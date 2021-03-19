@@ -6,13 +6,13 @@
  * Time: 下午 04:22
  */
 
-namespace XC\Independent\Kit\Network\Curl;
+namespace House\Help\Network\Curl;
 
-use XC\Independent\Kit\Support\Scalar\ArrayMaster;
+use House\Help\Support\Scalar\ArrayMaster;
 
 /**
  * Trait CurlOptionsHelper
- * @package XC\Independent\Kit\Network\Curl
+ * @package House\Help\Network\Curl
  */
 trait CurlOptionsHelper
 {

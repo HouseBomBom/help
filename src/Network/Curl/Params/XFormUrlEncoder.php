@@ -6,9 +6,9 @@
  * Time: 下午 08:00
  */
 
-namespace XC\Independent\Kit\Network\Curl\Params;
+namespace House\Help\Network\Curl\Params;
 
-use XC\Independent\Kit\Utils\URLUtil;
+use House\Help\Utils\URLUtil;
 
 class XFormUrlEncoder extends AbstractPostEncoder
 {

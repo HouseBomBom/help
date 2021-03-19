@@ -6,7 +6,7 @@
  * Time: 下午 03:47
  */
 
-namespace XC\Independent\Kit\Network\Curl\Exception;
+namespace House\Help\Network\Curl\Exception;
 
 class CurlExeFailException extends \Exception
 {

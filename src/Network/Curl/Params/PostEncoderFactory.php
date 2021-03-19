@@ -6,15 +6,15 @@
  * Time: 下午 03:20
  */
 
-namespace XC\Independent\Kit\Network\Curl\Params;
+namespace House\Help\Network\Curl\Params;
 
-use XC\Independent\Kit\Constants\ContentTypeConstants;
-use XC\Independent\Kit\Contract\Params\IPostEncoder;
-use XC\Independent\Kit\Support\Traits\Pattern\Factory;
+use House\Help\Constants\ContentTypeConstants;
+use House\Help\Contract\Params\IPostEncoder;
+use House\Help\Support\Traits\Pattern\Factory;
 
 /**
  * Class PostParamEncoderFactory
- * @package XC\Independent\Kit\Network\Curl\Params
+ * @package House\Help\Network\Curl\Params
  * @method static IPostEncoder make(string $key, array $parameters = [])
  */
 class PostEncoderFactory
